@@ -1,0 +1,2 @@
+# DjangoAdvance
+Simple Django Project
